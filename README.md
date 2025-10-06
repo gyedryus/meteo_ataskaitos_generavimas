@@ -1,0 +1,2 @@
+# meteo_ataskaitos_generavimas
+Meteorologinių Rodiklių Analizė ir Ataskaitos Generavimas
